@@ -1,3 +1,6 @@
+# install " python from microsoft store"
+# install - "pip install --upgrade pip"
+# #install - "pip install matplotlib"
 import pygame
 import sys
 
